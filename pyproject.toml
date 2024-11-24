@@ -6,7 +6,7 @@ authors = ["Folclore <folclore@protonmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.12.*"
+python = ">=3.9"
 pydantic-settings = "^2.4.0"
 pyrogram = "^2.0.106"
 tgcrypto = "^1.2.5"
